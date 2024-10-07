@@ -38,9 +38,11 @@ while True:
 ```
 ## OUPUT
 CLIENT:
+
 ![alt text](<Screenshot 2024-09-30 161121.png>)
 
 SERVER:
+
 ![alt text](<Screenshot 2024-09-30 161129.png>)
 
 ## RESULT
